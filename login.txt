@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" 
+  "http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+<HEAD>
+<TITLE>Nome de Usuário ou Senha incorretos</TITLE>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<STYLE type="text/css">
+body, p {
+	font-family:Arial;
+	font-size:14px;
+	line-height:180%;
+	text-align:left;
+}
+h1 {
+	text-align:left;
+	font-size:30px;
+	line-height:normal;
+	color:#0068B1
+}
+#errorbody {
+	width:620px;
+	display:block;
+	padding-top:5em
+}
+</STYLE>
+</HEAD>
+<BODY>
+<DIV align="center">
+  <DIV id="errorbody">
+    <H1>Nome de usuário ou Senha incorretos.<BR>
+      Favor consultar a resolução de problemas abaixo:</H1>
+    <BR>
+    <P> <B><FONT size="4">Será que a trava do Caps Lock está habilitada em seu teclado?</FONT></B> <BR>
+      O nome de usuário e a senha devem ser digitados em letra minúscula. Verifique se a luz da trava maiúscula está desabilitada no teclado e tente novamente.</P>
+    <P><B><FONT size="4">Você esqueceu o seu nome de usuário ou sua senha?</FONT></B><BR>
+      Por favor restaure as configurações padrões de fábrica caso você esqueceu o seu <i>nome de usuário</i> e a sua <i>senha</i>. O nome de usuário  e a senha padrão de acesso são ambos estabelecidos como <B>&quot;admin&quot;</B>.<BR><BR>
+      <B><FONT color=#ee0000 size="3"><u>Nota: As configurações serão restauradas para o padrão de fábrica depois da reinicialização.</FONT></u></B></P>
+    <P><B><FONT size="4">Como restaurar o dispositivo para as configurações padrões de fábrica?</FONT></B><BR>
+      Primeiro localize o botão &quot;RESET&quot; no painel traseiro do dispositivo, para em seguida apertar e segurá-lo por pelo menos 5 segundos. O dispositivo então será reinicializado e suas configurações serão restauradas aos padrões de fábrica. </P>
+  </DIV>
+</DIV>
+</BODY>
+</HTML>
